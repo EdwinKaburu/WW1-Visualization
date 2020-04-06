@@ -14,7 +14,7 @@ The data used for the visual is located in the [WorldWarOneCleaned.csv](https://
 The visual contains three visuals, the first one showed the different location of the battles on a map based upon the input of the slider that contained the years that a user can transverse throughout; the map itself would upon accordingly. The second visual contained a drop-down list of countries that displayed a scatter plot of the years and the total number of battles fought on that current year based on the country selected. The last visual contained a overview map, that displayed all the battles fought during the war into one gigantic map, to which the user can get the name of the battle when the icon or marker is clicked on.
 ### Visual Sample Images
 #### Overview  Map
-![](https://raw.githubusercontent.com/EdwinKaburu/WW1-Visualization/master/Img/OverVIew.png?token=AIOT22BGH4CDFPKJ3O5BYCK6RON3I)
+![alt text](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/OverVIew.png)
 
 #### Year Overview Visual Map
-![](https://raw.githubusercontent.com/EdwinKaburu/WW1-Visualization/master/Img/YearChange.png?token=AIOT22AXL72USF2W5KYVJ426ROOA6)
+![alt text](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/YearChange.png)
