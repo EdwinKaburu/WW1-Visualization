@@ -4,7 +4,7 @@ Visualization of the first world war,in order to find where and the year of such
 The World War One Visualization was to find out where along with the total number of battles that occurred in a given country or region on a certain year. It is, therefore, the scope of this visualization to give a scale upon the capacity the war had around the world
 
 ### Visualization Data
-The data used for the visual is located in the [WorldWarOneCleaned.csv](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/WorldWarOneCleaned.csv)file, it is ordered as followed below:
+The data used for the visual is located in the[WorldWarOneCleaned.csv](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/WorldWarOneCleaned.csv) file, it is ordered as followed below:
 
 | Engagment | Year | Location | Country | Latitude | Longitude |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
