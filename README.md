@@ -1,2 +1,2 @@
 # WW1-Visualization
-Visualization of the first world war, to find where along with the year of such battles took place 
+Visualization of the first world war,in order to find where and the year of such battles took place 
