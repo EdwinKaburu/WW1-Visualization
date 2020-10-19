@@ -17,4 +17,4 @@ The visual contains three visuals, the first one showed the different location o
 ![alt text](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/OverVIew.png)
 
 #### Year Overview Visual Map
-![alt text](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/YearChange.png)
+![Here is An Image](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/YearChange.png)
