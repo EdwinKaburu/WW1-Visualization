@@ -18,3 +18,4 @@ The visual contains three visuals, the first one showed the different location o
 
 #### Year Overview Visual Map
 ![Here is An Image](https://github.com/EdwinKaburu/WW1-Visualization/blob/master/Img/YearChange.png)
+![Here is An Image]
