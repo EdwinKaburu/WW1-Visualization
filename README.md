@@ -1,5 +1,5 @@
 # WW1-Visualization
-Visualization of the first world war. 
+Visualization of the first world war. See License
 ### Visual Scope
 The World War One Visualization was to find out where along with the total number of battles that occurred in a given country or region on a certain year. It is, therefore, the scope of this visualization to give a scale upon the capacity the war had around the world
 
